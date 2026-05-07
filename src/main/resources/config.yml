@@ -1,0 +1,10 @@
+# TheFloorIsSomething by XenonSpace
+# Configuration file
+
+settings:
+  timer: 10
+
+# List of materials enabled by default
+enabled-blocks:
+  - DIRT
+  - GRASS_BLOCK
